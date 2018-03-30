@@ -1,4 +1,4 @@
-FROM uscis/dotnetsdk:1
+FROM uscis/dotnetsdk:2
 
 CMD  dotnet --version
 
